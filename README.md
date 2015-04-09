@@ -4,4 +4,4 @@ w00t!
 
 double w00t!
 
-tripple w00t! OMG!
+tripple w00t!
